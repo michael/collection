@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "collection"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{A Ruby API for the Unveil.js collection interface}
+    gem.description = %Q{}
     gem.email = "ma@zive.at"
     gem.homepage = "http://github.com/michael/collection"
     gem.authors = ["Michael Aufreiter"]
